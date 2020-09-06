@@ -1,6 +1,6 @@
 ---
-templateKey: 'history-page'
-path: /about
+templateKey: 'about-page'
+path: /history
 title: About our values
 ---
 ### Shade-grown coffee
