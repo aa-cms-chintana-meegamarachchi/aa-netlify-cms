@@ -1,12 +1,8 @@
 ---
 templateKey: about-page
 path: /history
-title: About our values
+title: The History of Coffee
 ---
-**The History of Coffee**
-
-
-
 ![](/img/c8n10h4o2.jpg)
 
 
